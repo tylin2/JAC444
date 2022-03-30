@@ -1,0 +1,5 @@
+In Workshop2, I know how to call functions in subclasses.
+In task2, 
+the only trouble is that I am not sure 
+whether we want SavingsAccount to calculate and pay interest before each transfer. 
+Because in daily life, this is not a common situation.

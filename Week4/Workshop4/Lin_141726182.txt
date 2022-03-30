@@ -1,0 +1,3 @@
+This week I learned how to read and write files.
+In this workshop, I used several new functions, such as String.replaceAll(), String.charAt() and String.contains().
+On the other hand, I am still a little unfamiliar with this week's topic, so it needs to be strengthened for me.

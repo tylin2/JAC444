@@ -1,0 +1,3 @@
+In task1 of Workshop6, I used a two-dimensional array. 
+I learned how to use it. 
+In Task2, I used Math.sqtr() and .pow.

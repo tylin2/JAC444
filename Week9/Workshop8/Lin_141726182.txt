@@ -1,0 +1,3 @@
+In this week, we learned List, Set and Collection etc.
+In task1, I understand how to use List's add(), use Set to delete duplicate data and use Collection to sort.
+In task2, I originally wanted to use List, but I thought it was too much trouble. Therefore, the simplest method was used in the end.

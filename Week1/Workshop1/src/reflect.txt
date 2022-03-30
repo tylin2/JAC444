@@ -1,0 +1,21 @@
+/**********************************************
+Workshop 1
+Course: JAC444 - Winter
+Last Name:Lin
+First Name:Ting-Yeh
+ID:141726182
+Section:NEE
+This assignment represents my own work in accordance with Seneca Academic Policy.
+Ting-Yeh Lin
+Date:2021/01/26
+**********************************************/
+
+Reflect for Workshop1:
+
+This is my first time using java language. 
+Compared to C++, it has no pointer, which reduces my confusion. 
+In Task1, I learned in (for input) and out (for output). 
+In addition, I understand how Math.random() and nextInt() are used. 
+Finally, I can set the array. 
+In Task2, excluding the use of Math.random( ), I created a function and used it. 
+In summary, the tasks of Workshop1 are very interesting!!

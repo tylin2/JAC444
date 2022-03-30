@@ -1,0 +1,3 @@
+This week, I learned the link between JAVA and Database.
+Regarding the workshop, I am not sure if it meets the professor's requirements...
+Because in the workshop, AGSLog will have cde's information at the end, but ExerciseAssigned does not show the assignment for cde.
